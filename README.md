@@ -476,8 +476,8 @@ Output:
 
 ## Authors :black_nib:
 
-* (cm-amos)Amos Mwongela <[cm-amos](https://github.com/cm-amos)>
-* Kibangedi <[kibagendi20](https://github.com/kibagendi20)>
+* Salisu Shamsuddeen <[totudansabo](https://github.com/totudansabo)>
+* Daha Ahmad Tijjani <[dahaahmad](https://github.com/dahaahmad)>
 
 
 ## Acknowledgements :pray:
